@@ -1,0 +1,11 @@
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\EF_Studii_de_caz\bin\Debug\EF_Studii_de_caz.exe.config
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\EF_Studii_de_caz\bin\Debug\EF_Studii_de_caz.exe
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\EF_Studii_de_caz\bin\Debug\EF_Studii_de_caz.pdb
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\EF_Studii_de_caz\bin\Debug\EntityFramework.dll
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\EF_Studii_de_caz\bin\Debug\EntityFramework.SqlServer.dll
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\EF_Studii_de_caz\bin\Debug\EntityFramework.xml
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\EF_Studii_de_caz\bin\Debug\EntityFramework.SqlServer.xml
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\EF_Studii_de_caz\obj\Debug\EF_Studii_de_caz.csprojAssemblyReference.cache
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\EF_Studii_de_caz\obj\Debug\EF_Studii_de_caz.csproj.CopyComplete
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\EF_Studii_de_caz\obj\Debug\EF_Studii_de_caz.exe
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\EF_Studii_de_caz\obj\Debug\EF_Studii_de_caz.pdb
