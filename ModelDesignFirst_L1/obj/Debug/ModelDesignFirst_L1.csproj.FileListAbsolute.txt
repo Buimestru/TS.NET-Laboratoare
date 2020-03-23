@@ -1,0 +1,11 @@
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\ModelDesignFirst_L1\bin\Debug\ModelDesignFirst_L1.exe.config
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\ModelDesignFirst_L1\bin\Debug\ModelDesignFirst_L1.exe
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\ModelDesignFirst_L1\bin\Debug\ModelDesignFirst_L1.pdb
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\ModelDesignFirst_L1\bin\Debug\EntityFramework.dll
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\ModelDesignFirst_L1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\ModelDesignFirst_L1\bin\Debug\EntityFramework.xml
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\ModelDesignFirst_L1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\ModelDesignFirst_L1\obj\Debug\ModelDesignFirst_L1.csprojAssemblyReference.cache
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\ModelDesignFirst_L1\obj\Debug\ModelDesignFirst_L1.csproj.CopyComplete
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\ModelDesignFirst_L1\obj\Debug\ModelDesignFirst_L1.exe
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\ModelDesignFirst_L1\obj\Debug\ModelDesignFirst_L1.pdb

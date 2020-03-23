@@ -1,0 +1,9 @@
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\Laborator2\bin\Debug\Laborator2.exe.config
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\Laborator2\bin\Debug\Laborator2.exe
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\Laborator2\bin\Debug\Laborator2.pdb
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\Laborator2\obj\Debug\Laborator2.csprojAssemblyReference.cache
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\Laborator2\obj\Debug\Laborator2.Calculator.resources
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\Laborator2\obj\Debug\Laborator2.Properties.Resources.resources
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\Laborator2\obj\Debug\Laborator2.csproj.GenerateResource.cache
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\Laborator2\obj\Debug\Laborator2.exe
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\Laborator2\obj\Debug\Laborator2.pdb

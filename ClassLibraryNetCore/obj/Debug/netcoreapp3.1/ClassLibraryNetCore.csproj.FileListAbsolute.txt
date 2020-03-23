@@ -1,0 +1,10 @@
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.deps.json
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.dll
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.csprojAssemblyReference.cache
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.AssemblyInfoInputs.cache
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.AssemblyInfo.cs
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.runtimeconfig.json
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.runtimeconfig.dev.json
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.pdb
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.dll
+C:\Disk D\Cursurile de la facultate\Semestrul 6\Topici Speciale de Programare .NET\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.pdb
